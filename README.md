@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Tarfin**
 
-- 🌱 I’m currently learning **react native, nestjs, laravel, mongodb**
+- 🌱 I’m currently learning **react native, react, nextjs, nestjs, laravel, mongodb**
 
 - 📫 How to reach me **demirhasanjs@gmail.com**
 
