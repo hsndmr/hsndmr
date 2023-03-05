@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsndmr&label=Profile%20views&color=009dff&style=flat" alt="hsndmr" /> </p>
 
-- 🔭 I’m currently working on **tarfin**
+- 🔭 I’m currently working at **Tarfin**
 
 - 🌱 I’m currently learning **react native, nestjs, laravel, mongodb**
 
